@@ -48,7 +48,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1em;
     color: white;
-    width: 400px;
+    width: 340px;
     margin: auto;
     text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.521);
 }
